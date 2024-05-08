@@ -4,9 +4,9 @@ PURPOSE : It is a fractional calculator it can do addition , subtraction , multi
 AUTHORS :
 (1) Malak Nour-Elhussien Samir , ID: 20230419 , S19 , part taken : Addition , multiplication & validation ,E-mail :nourrm218@gmail.com
 
-(2) Reem Abdou Mohamed , ID : 20230144 , S19 , part taken : Addition , multiplication & division ,E-mail :reem64404@gmail.com
+(2) Reem Abdou Mohamed , ID : 20230144 , S19 , part taken : Addition & multiplication ,E-mail :reem64404@gmail.com
 
-(3) Sara Ibrahim Mohamed , ID: 20230166 , S20 , part taken : algorithm & subtraction ,E-mail :si6357141@gmail.com
+(3) Sara Ibrahim Mohamed , ID: 20230166 , S20 , part taken : algorithm ,E-mail :si6357141@gmail.com
 
 Date : 15 March 2024
 
